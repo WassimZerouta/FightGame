@@ -1,11 +1,17 @@
 //
 //  main.swift
-//  Exemple
+//  FightGame
 //
 //  Created by Wass on 26/10/2022.
 //
 
 import Foundation
 
-print("Hello, World!")
+// Beginning of the scenario.
+
+let party = Game()
+
+
+
+
 
